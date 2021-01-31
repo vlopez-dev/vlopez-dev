@@ -1,9 +1,9 @@
 ### Hi [ vlopez-dev ][website] 👋
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=vlopez-dev&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvicdev_l)](https://twitter.com/vicdev_l)
 
 
 Here are some ideas to get you started:
-[![Twitter URL](https://img.shields.io/twitter/url?label=vlopez-dev&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvicdev_l)](https://twitter.com/vicdev_l)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
