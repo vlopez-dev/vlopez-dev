@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
 <!-- Links -->
-[website]:http://vic.com/
+[website]:http://vic.uy/
