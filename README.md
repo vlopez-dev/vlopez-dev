@@ -2,6 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=vlopez-dev&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvicdev_l)](https://twitter.com/vicdev_l)
 
+[<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="" srcset="">][website]
 
 Here are some ideas to get you started:
 
