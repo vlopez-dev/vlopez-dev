@@ -1,9 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Arduino and Django<br>👯 I’m looking to collaborate on python projects or Arduino projects<br>🤝 I’m looking for help with<br>🌱  I’m currently learning python and electronics<br>💬 Ask me about<br>⚡ Fun fact: videogames and traveling<br>
+🔭 I’m currently working on Arduino and Django<br>👯 I’m looking to collaborate on Python projects or Arduino projects<br>🤝 I’m looking for help with<br>🌱  I’m currently learning Python and electronics<br>💬 Ask me about<br>⚡ Fun fact: videogames and traveling<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorlopezr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vic_mde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorlopezr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vic_mde)[![Website Logo](https://img.shields.io/badge/vic.uy-%23ffff?style=flat&color=%23ff8906
+)](https://vic.uy)
+
 
 
 # 💻 Tech Stack:
