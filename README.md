@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorlopezr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vic_mde)[![Website Logo](https://img.shields.io/badge/vic.uy-%23ffff?style=flat&color=%23ff8906
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorlopezr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@vic_mde)[![https://img.shields.io/badge/vic.uy-%23ffff?style=flat&color=%23ff8906
+](https://img.shields.io/badge/vic.uy-%23ffff?style=flat&color=%23ff8906
 )](https://vic.uy)
 
 
